@@ -1,5 +1,7 @@
 # Ang17FirebaseCrud
 
+This project is based on bezkoder's angular17-firebase-crud tutorial, using its realtime database api.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
 
 ## Development server
