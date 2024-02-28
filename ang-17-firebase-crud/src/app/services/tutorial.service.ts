@@ -29,7 +29,7 @@ export class TutorialService {
     return this.tutorialsRef.remove(key);
   }
 
-  deleteAll(key: string): Promise<void> {
+  deleteAll(): Promise<void> {
     return this.tutorialsRef.remove();
   }
 }
